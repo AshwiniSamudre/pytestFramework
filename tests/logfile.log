@@ -1,0 +1,9 @@
+2024-07-30 16:36:07,781 :INFO : test_e2e :getting all products:
+2024-07-30 16:36:07,870 :INFO : test_e2e :[<selenium.webdriver.remote.webelement.WebElement (session="ff6fb3beebb564beb8341f4ab0f1ff1e", element="f.B2001177648B2372B7833F628CF5BEDD.d.D0DB0913FD3F4F765D385A7EADED23A6.e.56")>, <selenium.webdriver.remote.webelement.WebElement (session="ff6fb3beebb564beb8341f4ab0f1ff1e", element="f.B2001177648B2372B7833F628CF5BEDD.d.D0DB0913FD3F4F765D385A7EADED23A6.e.58")>, <selenium.webdriver.remote.webelement.WebElement (session="ff6fb3beebb564beb8341f4ab0f1ff1e", element="f.B2001177648B2372B7833F628CF5BEDD.d.D0DB0913FD3F4F765D385A7EADED23A6.e.60")>, <selenium.webdriver.remote.webelement.WebElement (session="ff6fb3beebb564beb8341f4ab0f1ff1e", element="f.B2001177648B2372B7833F628CF5BEDD.d.D0DB0913FD3F4F765D385A7EADED23A6.e.62")>]
+2024-07-30 16:36:07,951 :INFO : test_e2e :iphone X
+2024-07-30 16:36:08,000 :INFO : test_e2e :Samsung Note 8
+2024-07-30 16:36:08,055 :INFO : test_e2e :Nokia Edge
+2024-07-30 16:36:08,084 :INFO : test_e2e :Blackberry
+2024-07-30 16:36:13,692 :INFO : test_e2e :entering country name indi
+2024-07-30 16:36:19,625 :INFO : test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
